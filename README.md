@@ -52,8 +52,6 @@ ztools是编译器文件夹, 这里汇编用的编译器以及对c的编译器�
 
 
 ## Li-OS 真机虚拟机运行视频
-链接：https://pan.baidu.com/s/1_zB2Z5TNu6Qn6qnwBgM52g 
-提取码：1111
-
-
+虚拟机运行视频：https://118.31.36.52/Li-OS.MP4
+真机运行视频: https://118.31.36.52/真机运行.mkv
 
